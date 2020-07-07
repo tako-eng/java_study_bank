@@ -8,6 +8,8 @@ public final class A extends Y{
 		System.out.println("Ab");
 	}
 	public void c() {
+		int a = 1;
 		System.out.println("Ac");
+		System.out.println(a);
 	}
 }
