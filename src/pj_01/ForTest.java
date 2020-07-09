@@ -21,5 +21,6 @@ public class ForTest {
 		}
 		System.out.println("==================");
 		System.out.println("last_" + total);
+		System.out.println("==================");
 	}
 }
